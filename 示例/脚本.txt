@@ -1,0 +1,2 @@
+HelloWorld.SayHello UserName: $'''蓝创精英团队''' Result=> Result
+Display.ShowMessageDialog.ShowMessage Title: $'''提示信息''' Message: Result Icon: Display.Icon.None Buttons: Display.Buttons.OK DefaultButton: Display.DefaultButton.Button1 IsTopMost: False ButtonPressed=> ButtonPressed

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YZG.Modules.DemoInfo.Actions", "HelloWorld\YZG.Modules.DemoInfo.Actions.csproj", "{C007AFCA-64C0-4D39-8FD0-08CA7D333CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YZG.Modules.HelloWorld.Actions", "YZG.Modules.HelloWorld.Actions\YZG.Modules.HelloWorld.Actions.csproj", "{F7B0BF78-9AB2-4F43-A4E0-A5D0240DDE6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C007AFCA-64C0-4D39-8FD0-08CA7D333CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C007AFCA-64C0-4D39-8FD0-08CA7D333CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C007AFCA-64C0-4D39-8FD0-08CA7D333CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C007AFCA-64C0-4D39-8FD0-08CA7D333CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B0BF78-9AB2-4F43-A4E0-A5D0240DDE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B0BF78-9AB2-4F43-A4E0-A5D0240DDE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B0BF78-9AB2-4F43-A4E0-A5D0240DDE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B0BF78-9AB2-4F43-A4E0-A5D0240DDE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19AF226B-8CCB-4174-B49C-B846D4F37BFA}
+	EndGlobalSection
+EndGlobal
